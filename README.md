@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xavier</h1>
+<h1 align="center">Hi 👋, I'm Xavier Santamaria</h1>
 <h3 align="center">Developer constantly learning and improving</h3>
 
 - 🌱 Learning about modern web technologies like **Java, Spring Boot, and RESTful APIs.**
